@@ -1,11 +1,11 @@
 <template>
   <section class="ekf__header__menu-bar">
-    <a href="/" class="ekf__header__menu-bar__logo">
+    <nuxt-link to="/" class="ekf__header__menu-bar__logo">
       <img
         src="./img/main_logo.png"
         alt="Логотип компании EKF — Производителя надёжной и доступной электротехнической продукции"
       />
-    </a>
+    </nuxt-link>
     <nav class="ekf__header__menu-bar__nav">
       <ul>
         <li>

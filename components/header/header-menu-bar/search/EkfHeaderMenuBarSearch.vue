@@ -45,8 +45,6 @@ export default {
 }
 </script>
 <style lang="scss">
-.ekf__header__menu-bar__nav__search {
-}
 .ekf__header__menu-bar__nav__search__box {
   position: absolute;
   left: 0;
