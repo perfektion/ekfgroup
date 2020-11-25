@@ -1,5 +1,6 @@
 <template>
   <section class="ekf__header__menu-bar__nav__search">
+    <h2 class="visually_hidden">Раздел поика по сайту</h2>
     <button
       class="ekf__header__menu-bar__nav__search__btn"
       title="Поиск по сайту"

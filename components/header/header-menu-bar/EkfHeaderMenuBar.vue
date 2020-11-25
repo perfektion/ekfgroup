@@ -1,5 +1,6 @@
 <template>
   <section class="ekf__header__menu-bar">
+    <h2 class="visually_hidden">Раздел главного меню сайта</h2>
     <nuxt-link to="/" class="ekf__header__menu-bar__logo">
       <img
         src="./img/main_logo.png"

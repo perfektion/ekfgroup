@@ -1,5 +1,8 @@
 <template>
   <section class="ekf__header__title-bar">
+    <h2 class="visually_hidden">
+      Ссылки для входа и переходы на другие проекты EKF
+    </h2>
     <EkfHeaderTitleBarAccount />
     <ul class="ekf__header__title-bar__links">
       <li class="ekf__header__title-bar__links__item">
