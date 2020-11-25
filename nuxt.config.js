@@ -1,4 +1,7 @@
 export default {
+  router: {
+    base: '/ekfgroup/',
+  },
   head: {
     title:
       'EKF — Производитель надёжной и доступной электротехнической продукции',
