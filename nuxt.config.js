@@ -13,6 +13,7 @@ export default {
   css: [
     '~/assets/scss/_fonts.scss',
     '~/assets/scss/_variables.scss',
+    '~/assets/scss/_animations.scss',
     '~/assets/scss/main.scss',
   ],
 
